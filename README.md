@@ -1,6 +1,7 @@
 # Coding-Rubbish
 <p align="center"> <img src="meme.jpg"> </p>
-##Java CheatSheet
+
+## Java CheatSheet
 
 ### ***String, char, Integer conversion***
 [String to int]:     Integer.parseInt(s);        // return int primitive  <br />
