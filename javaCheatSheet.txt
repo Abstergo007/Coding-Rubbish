@@ -1,6 +1,6 @@
 # Coding-Rubbish
 
-#Java CheatSheet
+##Java CheatSheet
 
 /******************** String, char, Integer conversion ***************/
 [String to int]:     Integer.parseInt(s);        // return int primitive
