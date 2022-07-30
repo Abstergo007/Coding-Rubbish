@@ -1,5 +1,5 @@
 # Coding-Rubbish
-
+<p align="center"> <img src="meme.jpeg"> </p>
 ## Java CheatSheet
 
 ### ***String, char, Integer conversion***
