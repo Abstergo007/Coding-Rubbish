@@ -1,5 +1,5 @@
 # Coding-Rubbish
-<p align="center"> <img src="meme.jpeg"> </p>
+<p align="center"> <img src="meme.jpg"> </p>
 ## Java CheatSheet
 
 ### ***String, char, Integer conversion***
