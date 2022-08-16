@@ -144,7 +144,9 @@ Collections.sort(list, new Comparator<Integer>() {<br />
    }<br />
 });<br />
 list.forEach(num -> system.out.println(num));   // traverse the list and print out by using lamda function<br />
-
+list.stream().mapToInt(i -> i).toArray(); -> arraylist to array<br />
+  
+  
 ### ***Stack, Queue, PriorityQueue, Deque***
 Stack<Integer> stack = new Stack<Integer>();<br />
 stack.push(10);<br />
