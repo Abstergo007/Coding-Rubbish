@@ -75,6 +75,12 @@ for(Map.Entry<Character, Integer> entry : map.entrySet()){   // traverse key-val
 }<br />
 map.forEach((k,v) -> System.out.println("key: "+k+" value:"+v)); // traverse key-value pair using lamda expression to print out info<br />
 <br />
+  map.forEach((key,value)->{  \\
+            pq.add(key);      \\
+            if(pq.size()>k){      \\
+                pq.poll();      \\
+            }     \\
+        });     \\
 map.isEmpty();<br />
 map.size();<br />
 HashSet<Integer> set = new HashSet<Integer>();<br />
