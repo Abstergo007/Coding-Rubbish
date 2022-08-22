@@ -12,6 +12,8 @@
 [array to list]:     List<String> list = Arrays.asList(arr); <br /> 可以直接罗列array的元素，比如：Arrays.asList("first", "second"); <br />
                                                               非常适合于 convert single element to list <br />
  注意 Arrays.asList 返回的list形式的数组，可以修改某个element，但不能 add 或 remove elements <br />
+ 
+ *[directly print array] ->    Arrays.deepToString(deepArray) / Arrays.toString(arr)
 
 ### ***String***
 String s = “a*b*c”; <br />
